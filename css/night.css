@@ -1,0 +1,11 @@
+body {
+   background: linear-gradient(to right, #fbc2eb ,#a6c1ee);
+   /* background-image: linear-gradient(to right, #93a5cf 0%, #e4efe9 100%); */
+   /* background-image: linear-gradient(to right, #fcc5e4 0%, #fda34b 15%, #ff7882 35%, #c8699e 52%, #7046aa 71%, #0c1db8 87%, #020f75 100%); */
+}
+.Department-introduction{
+   background: linear-gradient(to right,#fbc2eb ,#a6c1ee);
+}
+.footer{
+    background: linear-gradient(to right,#fbc2eb ,#a6c1ee);
+}

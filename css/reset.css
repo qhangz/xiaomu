@@ -1,0 +1,16 @@
+*{
+    padding:0;
+    margin:0;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
+input{
+    border:none;
+    outline:none;
+}
+ul,ol{
+    list-style:none;
+}
+
